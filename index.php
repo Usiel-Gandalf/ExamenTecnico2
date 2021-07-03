@@ -33,7 +33,7 @@
             mandar a llamar los archivos javaScript en los archivos HTML.
         </p>
       <h4>Resultado </h4>  
-        Mensaje:<p id="resultado"></p>
+        Mensaje:<div id="resultado"></div>
 
     </div>
 
